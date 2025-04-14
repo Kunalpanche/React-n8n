@@ -22,3 +22,14 @@ This project demonstrates how to integrate an **n8n Chatbot Agent** into a **Rea
    ```bash
    git clone https://github.com/Kunalpanche/React-n8n.git
    cd your-repo-name
+
+2. **Install dependencies::**
+
+   ```bash
+   npm install
+
+2. **Run the development server::**
+
+   ```bash
+   npm run dev
+
