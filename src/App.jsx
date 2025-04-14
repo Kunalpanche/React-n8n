@@ -10,7 +10,7 @@ function App() {
         console.log("Loaded @n8n/chat successfully");
 
         createChat({
-          webhookUrl: "https://kkp.app.n8n.cloud/webhook/a509e45b-9238-4023-bd26-ae5ba83735ce/chat",
+          webhookUrl: "ENTER_WEBHOOK_URL_HERE",
           theme: {
             color: "#04122c",
             title: "Inventory Chatbot",
