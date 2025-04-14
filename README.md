@@ -33,3 +33,14 @@ This project demonstrates how to integrate an **n8n Chatbot Agent** into a **Rea
    ```bash
    npm run dev
 
+## 🧠 How It Works
+
+- The React app loads the chat widget on startup.
+- All messages are handled by your custom n8n workflow.
+- The initial message, logic, and responses are controlled from the n8n backend.
+
+## 📁 File Overview
+
+- `App.jsx` – React component that mounts the chatbot
+- `index.jsx` – Main entry point for the React app
+
