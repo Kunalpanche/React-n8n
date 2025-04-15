@@ -15,6 +15,10 @@ This project demonstrates how to integrate an **n8n Chatbot Agent** into a **Rea
 - n8n (Low-code automation tool)
 - @n8n/chat package
 
+## ⚙️ Workflow
+
+![Flow](./src/assets/flow.png)
+
 ## 🛠️ Setup Instructions
 
 1. **Clone the repository:**
